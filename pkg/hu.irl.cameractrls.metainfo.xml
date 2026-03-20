@@ -29,6 +29,7 @@
     <content_rating type="oars-1.1"/>
     <url type="homepage">https://github.com/soyersoyer/cameractrls</url>
     <url type="bugtracker">https://github.com/soyersoyer/cameractrls/issues</url>
+    <url type="vcs-browser">https://github.com/soyersoyer/cameractrls</url>
     <screenshots>
         <screenshot type="default">
             <image>https://github.com/soyersoyer/cameractrls/raw/main/screenshots/gui_screen_gtk_1.png</image>
