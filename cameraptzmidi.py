@@ -38,6 +38,7 @@ class snd_seq_client_info(ctypes.Structure):
         ('name', ctypes.c_char * 64),
         ('filter', ctypes.c_uint),
         ('multicast_filter', ctypes.c_ubyte * 8),
+        ('event_filter', ctypes.c_ubyte * 32),
         ('num_ports', ctypes.c_int),
         ('event_lost', ctypes.c_int),
         ('card', ctypes.c_int),
